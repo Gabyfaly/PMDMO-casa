@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TresEnRayas</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="puntuación_jugador">Jugador:</string>
+    <string name="puntuación_maquina">Máquina:</string>
+    <string name="puntuación_partidas">Partidas:</string>
+
+    <string name="primero_jugador">Tú primero</string>
+    <string name="primero_maquina">Turno de Android</string>
+
+    <string name="turno_jugador">Tu turno</string>
+    <string name="turno_máquina">Mi turno</string>+
+
+    <string name="result_tie">Empate</string>
+    <string name="result_human_wins">¡ GANASTE !</string>
+    <string name="result_computer_wins">¡LA IA GANA !</string>
+
+    <string name="dificultad_seleccion">Selecciona el nivel de dificultad:</string>
+    <string name="dificultad_facil">Fácil</string>
+    <string name="dificultad_duro">Duro</string>
+    <string name="dificultad_experto">Experto</string>
+
+    <string name="salir">¿Seguro que desea salir?</string>
+    <string name="yes">Si</string>
+    <string name="no">No</string>
+
+
+
+</resources>
