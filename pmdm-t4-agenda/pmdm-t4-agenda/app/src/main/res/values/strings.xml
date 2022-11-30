@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">pmdm-t4-agenda</string>
+    <string name="enviar_mensaje">Whatsapp</string>
+    <string name="llamar">llamar</string>
+    <string name="cancelar">cancelar</string>
+
+</resources>
